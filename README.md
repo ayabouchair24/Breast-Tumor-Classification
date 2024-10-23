@@ -50,7 +50,7 @@ The final model selected was a Voting Classifier with soft voting, which used:
     ```
 3. Run the Jupyter notebook to see the full pipeline:
     ```bash
-    jupyter notebook notebook.ipynb
+    jupyter notebook tumor-classification-final.ipynb
     ```
 
 ## Submission
